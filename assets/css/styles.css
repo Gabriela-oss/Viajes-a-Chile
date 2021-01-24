@@ -1,3 +1,7 @@
 .columnas{
-    background-color: black;
+    background-color:black;
+}
+.item{
+    
+    border: 1px solid;
 }
